@@ -1,0 +1,17 @@
+.categoryList{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .headerCover{
+    width: 100%;
+    height: 16rem;
+    background: url('https://www.olx.com.pk/assets/wallpaper.6416002a042322099dbfec286d7574f4.jpg');
+    background-repeat: no-repeat;
+    background-position: 50%;
+  }
+
+  .border-left-yellow{
+      border-left: 0.3rem solid #ffce32;
+  }
