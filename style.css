@@ -15,3 +15,9 @@
   .border-left-yellow{
       border-left: 0.3rem solid #ffce32;
   }
+
+  .badge{
+    position: relative;
+    top: -10px !important;
+    font-size:x-small
+  }
