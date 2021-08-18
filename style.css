@@ -21,3 +21,16 @@
     top: -10px !important;
     font-size:x-small
   }
+
+  input::-webkit-calendar-picker-indicator {
+    opacity: 0;
+}
+
+.form-select {
+    /* background-image: url('search-solid.svg') */
+    background-image: none;
+}
+
+.form-select:focus {
+    outline: none !important;
+}
